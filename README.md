@@ -1,16 +1,56 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBxMmxtYml4Y3Q0YmFmcjhhN25sOWwxNWtmd292ajhyMWNsdDV1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" align="right"/>
 
-<!--
-**crylent/crylent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=crylent&style=flat-square&color=blue"/>
+<a href="https://www.linkedin.com/in/crylent/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://t.me/devoidofthesun"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 
-Here are some ideas to get you started:
+<h1>Hi, I'm crylent</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧙‍♂️ About me
+I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game Development & 📱Android Development.
+
+- 🏫 Currently studying in ETU “LETI”, 4th course of undergraduate
+- 🌠 Dream of moving to the other side of the world, maybe to 🌏Australia or 🗾Japan
+- 🎸 My hobby: playing guitar, writing and recording music
+- 🎮 One more hobby: PC games (love ⚔️Dark Souls series and 🔫Valorant)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/devoidofthesun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/devoidofthesun) [![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=Gmail&logoColor=white)](inkerimaa1@gmail.com)
+
+### 🔧 Languages and Tools
+
+📱 <i> as Android Developer</i>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+
+🎮 <i> as Game Developer</i>
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+
+⛏️ <i> also had some experience with</i>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D5BD0C?style=for-the-badge&logo=Javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+🔨 <i> other useful</i>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
+
+### :fire: My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=crylent&theme=radical&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crylent&layout=donut&theme=radical)
+
