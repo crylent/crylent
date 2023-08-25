@@ -9,7 +9,7 @@
 ### 🧙‍♂️ About me
 I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game Development & 📱Android Development.
 
-- 🏫 Currently studying in ETU “LETI”, 4th course of undergraduate
+- 🏫 Currently studying in ETU “LETI”, Informatics and Computer Engineering, 4th course of undergraduate
 - 🌠 Dream of moving to the other side of the world, maybe to 🌏Australia or 🗾Japan
 - 🎸 My hobby: playing guitar, writing and recording music
 - 🎮 One more hobby: PC games (love ⚔️Dark Souls series and 🔫Valorant)
