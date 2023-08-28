@@ -6,14 +6,36 @@
 
 <h1>Hi, I'm crylent</h1>
 
-### 🧙‍♂️ About me
+### 🧙‍♂️ About Me
 I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game Development & 📱Android Development.
 
 - 🏫 Currently studying in ETU “LETI”, Informatics and Computer Engineering, 4th course of undergraduate
 - 🌠 Dream of moving to the other side of the world, maybe to 🌏Australia or 🗾Japan
 - 🎸 My hobby: playing guitar, writing and recording music
 - 🎮 One more hobby: PC games (love ⚔️Dark Souls series and 🔫Valorant)
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/devoidofthesun-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/devoidofthesun) [![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=Gmail&logoColor=white)](inkerimaa1@gmail.com)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/devoidofthesun-blue?logo=Telegram&logoColor=white)](https://t.me/devoidofthesun) [![Email Badge](https://img.shields.io/badge/email-red?logo=Gmail&logoColor=white)](inkerimaa1@gmail.com)
+
+### 📑 My Projects
+
+- [Android Audio MIDI Library](https://github.com/crylent/android-midilib)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=AndroidStudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
+- [MIDI Keyboard Application for Android](https://github.com/crylent/cryboard)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=AndroidStudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
+- [Simple Unity 3D Game Prototype](https://github.com/crylent/BuzzingOrbs)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+- [Console Calculator, my coursework on DSA](https://github.com/crylent/DSA_console_calculator)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
+- [Flow Network, my coursework on DSA](https://github.com/crylent/DSA_flow_network)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
+- [Multiplatform P2P Chat, my coursework on Computer Networks](https://github.com/crylent/flutter_p2p_chat)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white)
+- [Telegram Bot](https://github.com/crylent/sdpic_bot)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
 
 ### 🔧 Languages and Tools
 
