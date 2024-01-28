@@ -27,6 +27,21 @@ I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game De
 - [Simple Unity 3D Game Prototype](https://github.com/crylent/BuzzingOrbs)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+- [Audio Clustering by Spectrum, my practical work on Basics of AI](https://github.com/crylent/AI_clustering)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
+- [Travelling Salesman Solver, my practical work on Basics of AI](https://github.com/crylent/AI_TSP)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
+- [Character Recognition using Hamming & Hebb networks, my practical work on Basics of AI](https://github.com/crylent/AI_neural)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
+- [Robot with Fuzzy Logic, my practical work on Basics of AI](https://github.com/crylent/AI_fuzzy_robot)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
+- [Function Optimization using PSO & Genetic Algorithm, my practical work on Basics of AI](https://github.com/crylent/AI_func_min)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
 - [Console Calculator, my coursework on DSA](https://github.com/crylent/DSA_console_calculator)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
 - [Flow Network, my coursework on DSA](https://github.com/crylent/DSA_flow_network)
@@ -34,8 +49,9 @@ I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game De
 - [Multiplatform P2P Chat, my coursework on Computer Networks](https://github.com/crylent/flutter_p2p_chat)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white)
-- [Telegram Bot](https://github.com/crylent/sdpic_bot)
+- [Telegram Bot, my practical work on Programming in Kotlin](https://github.com/crylent/sdpic_bot)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
+
 
 ### 🔧 Languages and Tools
 
