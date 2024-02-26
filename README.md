@@ -42,6 +42,8 @@ I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game De
 - [Function Optimization using PSO & Genetic Algorithm, my practical work on Basics of AI](https://github.com/crylent/AI_func_min)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
 ![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
+- [Numerical Integration, my practical work on Dynamic Nonlinear Systems](https://github.com/crylent/numerical_integration)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 - [Console Calculator, my coursework on DSA](https://github.com/crylent/DSA_console_calculator)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
 - [Flow Network, my coursework on DSA](https://github.com/crylent/DSA_flow_network)
