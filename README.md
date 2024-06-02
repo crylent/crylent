@@ -7,12 +7,13 @@
 <h1>Hi, I'm crylent</h1>
 
 ### 🧙‍♂️ About Me
-I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game Development & 📱Android Development.
+I'm 🎮Unity Developer from ⚓Saint Petersburg. Also interested in 📱Android Development.
 
 - 🏫 Currently studying in ETU “LETI”, Informatics and Computer Engineering, 4th course of undergraduate
 - 🌠 Dream of moving to the other side of the world, maybe to 🌏Australia or 🗾Japan
-- 🎸 My hobby: playing guitar, writing and recording music
-- 🎮 One more hobby: PC games (love ⚔️Dark Souls series and 🔫Valorant)
+- 🌐 日本語を勉強しています　(Learning Japanese) 
+- 🎸 My hobby: playing guitar, writing and recording music (see my [Youtube channel](https://youtube.com/@crylent?sub_confirmation=1))
+- 🎮 One more hobby: PC games (love ⚔️Dark Souls series and 🔫Valorant, see my another [Youtube channel](https://youtube.com/@crylentfoundyou?sub_confirmation=1))
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/devoidofthesun-blue?logo=Telegram&logoColor=white)](https://t.me/devoidofthesun) [![Email Badge](https://img.shields.io/badge/email-red?logo=Gmail&logoColor=white)](inkerimaa1@gmail.com)
 
 ### 📑 My Projects
@@ -24,15 +25,17 @@ I'm Junior Programmer from ⚓Saint Petersburg. Mostly interested in 🎮Game De
 - [MIDI Keyboard Application for Android](https://github.com/crylent/cryboard)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=AndroidStudio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
-- [Buzzing Orbs, simple 3D game prototype](https://github.com/crylent/BuzzingOrbs)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
 - [Cat Knight Practice, hack'n'slash 2D game (demo)](https://github.com/crylent/KnightPractice)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
-- [Space Fighter, turn-based tactics 2D game](https://github.com/crylent/SpaceFighter)
+- [Space Fighter, turn-based tactics 2D game (prototype)](https://github.com/crylent/SpaceFighter)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+- [Buzzing Orbs, simple 3D game prototype](https://github.com/crylent/BuzzingOrbs)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+- [DSP Filters Library Fork](https://github.com/crylent/DSP-Cpp-filters)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
 - [Audio Clustering by Spectrum, my practical work on Basics of AI](https://github.com/crylent/AI_clustering)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
 ![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
