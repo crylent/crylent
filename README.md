@@ -18,6 +18,7 @@ I'm 🎮Unity Developer from ⚓Saint Petersburg. Also interested in 📱Android
 
 ### 📑 My Projects
 
+#### Pet Projects
 - [Android Audio MIDI Library](https://github.com/crylent/android-midilib)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=AndroidStudio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
@@ -36,6 +37,18 @@ I'm 🎮Unity Developer from ⚓Saint Petersburg. Also interested in 📱Android
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
 - [DSP Filters Library Fork](https://github.com/crylent/DSP-Cpp-filters)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white)
+
+#### Test Projects
+- [Stealth game (test task)](https://github.com/crylent/Barrel)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-78C257?logo=android&logoColor=white)
+- [Run Rich 3D clone (test task)](https://github.com/crylent/RunRich3D-clone)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=Unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-78C257?logo=android&logoColor=white)
+
+#### Educational Projects
 - [Audio Clustering by Spectrum, my practical work on Basics of AI](https://github.com/crylent/AI_clustering)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=CSharp&logoColor=white)
 ![NET 7](https://img.shields.io/badge/NET%207-512BD4?logo=.NET&logoColor=white)
